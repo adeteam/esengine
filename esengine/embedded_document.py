@@ -1,4 +1,4 @@
-from collections import Iterable
+from collections.abc import Iterable
 
 from esengine.bases.field import BaseField
 from esengine.bases.metaclass import ModelMetaclass
